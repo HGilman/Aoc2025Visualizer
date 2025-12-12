@@ -22,3 +22,5 @@ gradlew
 gradlew.bat
 kotlin-js-store
 gradle/wrapper/gradle-wrapper.jar
+
+demo/
