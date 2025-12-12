@@ -1,4 +1,4 @@
-Advent of Code 2025 Visualizer in Kotlin Mutliplatform targeting JVM, Android and Web
+Advent of Code 2025 Visualizer in Kotlin Mutliplatform using Compose Ui targeting JVM, Android and Web
 
 ## Show case
 
